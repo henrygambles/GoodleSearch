@@ -111,3 +111,7 @@ The pattern is case-insensitive and matches whole words only, so `praying` won't
 ## License
 
 Do what thou wilt.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/GoodleSearch&type=Date)](https://star-history.com/#henrygambles/GoodleSearch&Date)
