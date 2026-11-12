@@ -114,4 +114,4 @@ Do what thou wilt.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=henrygambles/GoodleSearch&type=Date)](https://star-history.com/#henrygambles/GoodleSearch&Date)
+![Star history](.github/star-history.svg)
